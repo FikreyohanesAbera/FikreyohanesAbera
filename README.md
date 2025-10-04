@@ -14,7 +14,7 @@
 
 ### 🧭 About
 - 🇪🇹 Based in **Addis Ababa, Ethiopia**  
-- 🎓 **B.Sc. Computer Science**, Addis Ababa University   
+- 🎓 **B.Sc. Software Engineering**, Addis Ababa University   
 - 🔭 Building an **enterprise system** for AAWSA (**Angular + ASP.NET + PostgreSQL**)  
 - 💡 Interests: **distributed/real-time systems**, **ML/CV**, **scalable architectures**, **SaaS**, **3D Web dev**
 ---
