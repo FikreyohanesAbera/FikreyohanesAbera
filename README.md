@@ -46,7 +46,7 @@
 ### 🧠 Competitive Programming
 - **LeetCode:** https://leetcode.com/<your-leetcode>/  
 - **Codeforces:** https://codeforces.com/profile/<your-codeforces>  
-- Solved **1700+** problems across platforms; reached **Expert** on Codeforces (1600+).
+
 
 <!-- Optional cards (these sometimes rate-limit). Uncomment if you want them. -->
 <!--
@@ -58,7 +58,7 @@
 
 ---
 
-### 📈 GitHub Vibe
+### 📈 GitHub Summary
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikreyohanesAbera&layout=compact" alt="Top Languages" />
