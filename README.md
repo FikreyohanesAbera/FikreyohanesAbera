@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/fikreyohanes-abera)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/FikreyohanesAbera)
 [![Email](https://img.shields.io/badge/Email-fikreyohanesaberashibru%40gmail.com-red?logo=gmail)](mailto:fikreyohanesaberashibru@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/<your-leetcode>/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/<your-codeforces>)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/FikreYohanes/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/FikreyohanesAbera)
 
 </div>
 
