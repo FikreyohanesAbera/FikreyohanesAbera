@@ -61,12 +61,6 @@
 ### 📈 GitHub Vibe
 <div align="center">
 
-<!-- Streak (usually reliable) -->
-<img src="https://streak-stats.demolab.com?user=FikreyohanesAbera" alt="GitHub Streak" />
-
-<!-- Stats & Langs (shared servers can rate-limit; okay to keep or remove) -->
-<img src="https://github-readme-stats.vercel.app/api?username=FikreyohanesAbera&show_icons=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikreyohanesAbera&layout=compact" alt="Top Languages" />
 
 </div>
