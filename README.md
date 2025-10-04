@@ -2,7 +2,7 @@
 
 #  👋🏽This is **Fikreyohanes Abera** 
 
-**Software Engineer — Full-stack • Systems • ML**
+**Full stack Software and ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/fikreyohanes-abera)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/FikreyohanesAbera)
