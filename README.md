@@ -1,6 +1,6 @@
 <div align="center">
 
-# ሰላም 👋🏽 I’m **Fikreyohanes Abera** (ፍቅረ ዮሐንስ አበራ)
+#  👋🏽This is **Fikreyohanes Abera** 
 
 **Software Engineer — Full-stack • Systems • ML**
 
@@ -17,8 +17,6 @@
 - 🎓 **B.Sc. Computer Science**, Addis Ababa University — CGPA **3.93/4**  
 - 🔭 Building an **enterprise system** for AAWSA (**Angular + ASP.NET + PostgreSQL**)  
 - 💡 Interests: **distributed/real-time systems**, **ML/CV**, **scalable architectures**  
-- 🎯 Target: **Summer 2026** SWE internships (SWE / SRE / Trading Tech)
-
 ---
 
 ### 🛠️ Tech Toolbox
@@ -42,8 +40,6 @@
 - **Amharic OCR & Robotics** — *TensorFlow · YOLO · ROS/Gazebo*  
   *82% OCR accuracy; improved robot navigation in simulation.*
 
-> 🔗 Want links? Pin the repos on your profile, then add them here like:  
-> `[[RepoName]](https://github.com/FikreyohanesAbera/RepoName) — one-line description`.
 
 ---
 
@@ -60,11 +56,6 @@
 
 ---
 
-### 🏆 Highlights
-- **Top 10** in national math olympiad; **Runner-up** (Nifas Silk Sub-City academic Q&A)  
-- Built large-scale dashboards for **300,000+** customer records (interactive analytics & exports)  
-- Integrated **geospatial shapefiles** → interactive map visualizations for **5+ regional offices**
-
 ---
 
 ### 📈 GitHub Vibe
@@ -80,8 +71,6 @@
 
 </div>
 
-> If a card says “Something went wrong,” it’s API rate limiting.  
-> **Fix:** self-host GitHub Readme Stats on Vercel with a personal access token, or keep only the streak card.
 
 ---
 
