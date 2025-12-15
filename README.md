@@ -1,6 +1,6 @@
 <div align="center">
 
-#  👋🏽This is **Fikreyohanes Abera** 
+#  **Fikreyohanes Abera** 
 
 **Full stack Software and ML Engineer**
 
